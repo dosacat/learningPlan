@@ -7,3 +7,5 @@ Future improvements:
 More fine-tuning capabilities for teachers.   
 Ability to request multiple open ai requests  
 Improved visualizations.   
+
+![image](https://github.com/dosacat/learningPlan/assets/98118185/da654337-803d-4fc5-ab9a-9ab84c99bb83)
